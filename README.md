@@ -1,2 +1,7 @@
 # mein-erstes-repo
-Uebungsrepo fuer meinen ersten Pull Request
+
+Übungsrepo für meinen ersten Pull Request.
+
+## Zweck
+
+Dieses Repository dient zum Üben des GitHub-Workflows: Branch erstellen, Änderung committen, pushen und einen Pull Request öffnen.
